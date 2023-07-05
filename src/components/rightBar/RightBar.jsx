@@ -9,7 +9,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://randomuser.me/api/portraits/women/71.jpg"
                 alt=""
               />
               <span>Jane Doe</span>
@@ -22,7 +22,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://randomuser.me/api/portraits/women/72.jpg"
                 alt=""
               />
               <span>Jane Doe</span>
@@ -38,11 +38,11 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://randomuser.me/api/portraits/women/73.jpg"
                 alt=""
               />
               <p>
-                <span>Jane Doe</span> changed their cover picture
+                <span>Jassie</span> changed their cover picture
               </p>
             </div>
             <span>1 min ago</span>
@@ -50,38 +50,38 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://randomuser.me/api/portraits/women/74.jpg"
                 alt=""
               />
               <p>
-                <span>Jane Doe</span> changed their cover picture
+                <span>James</span> changed their cover picture
               </p>
             </div>
-            <span>1 min ago</span>
+            <span>1 hour ago</span>
           </div>
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://randomuser.me/api/portraits/women/75.jpg"
                 alt=""
               />
               <p>
-                <span>Jane Doe</span> changed their cover picture
+                <span>Ash</span> changed their cover picture
               </p>
             </div>
-            <span>1 min ago</span>
+            <span>1 day ago</span>
           </div>
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://randomuser.me/api/portraits/women/18.jpg"
                 alt=""
               />
               <p>
-                <span>Jane Doe</span> changed their cover picture
+                <span>Brock</span> changed their cover picture
               </p>
             </div>
-            <span>1 min ago</span>
+            <span>1 month ago</span>
           </div>
         </div>
         <div className="item">
@@ -89,111 +89,111 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://randomuser.me/api/portraits/women/38.jpg"
                 alt=""
               />
               <div className="online" />
-              <span>Jane Doe</span>
+              <span>Jane</span>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://randomuser.me/api/portraits/women/48.jpg"
                 alt=""
               />
               <div className="online" />
-              <span>Jane Doe</span>
+              <span>Max</span>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://randomuser.me/api/portraits/women/58.jpg"
                 alt=""
               />
               <div className="online" />
-              <span>Jane Doe</span>
+              <span>Jack</span>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://randomuser.me/api/portraits/women/88.jpg"
                 alt=""
               />
               <div className="online" />
-              <span>Jane Doe</span>
+              <span>Mary</span>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://randomuser.me/api/portraits/women/70.jpg"
                 alt=""
               />
               <div className="online" />
-              <span>Jane Doe</span>
+              <span>Alex</span>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://randomuser.me/api/portraits/women/69.jpg"
                 alt=""
               />
               <div className="online" />
-              <span>Jane Doe</span>
+              <span>Kara</span>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://randomuser.me/api/portraits/women/28.jpg"
                 alt=""
               />
               <div className="online" />
-              <span>Jane Doe</span>
+              <span>Barry</span>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://randomuser.me/api/portraits/women/68.jpg"
                 alt=""
               />
               <div className="online" />
-              <span>Jane Doe</span>
+              <span>Caitlin</span>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://randomuser.me/api/portraits/women/77.jpg"
                 alt=""
               />
               <div className="online" />
-              <span>Jane Doe</span>
+              <span>Cisco</span>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://randomuser.me/api/portraits/women/78.jpg"
                 alt=""
               />
               <div className="online" />
-              <span>Jane Doe</span>
+              <span>Nancy</span>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://fastly.picsum.photos/id/10/2500/1667.jpg?hmac=J04WWC_ebchx3WwzbM-Z4_KC_LeLBWr5LZMaAkWkF68"
                 alt=""
               />
               <div className="online" />
-              <span>Jane Doe</span>
+              <span>Steve</span>
             </div>
           </div>
         </div>
